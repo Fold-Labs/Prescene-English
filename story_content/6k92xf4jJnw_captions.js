@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.000%20--%3E%2000:00:05.663%0D%0AThe%20air,%20water%20and%20even%20food%20became%20toxic.%20Everything%20it%20touched%20died.%20%0D%0A%0D%0A%0D%0A"}')

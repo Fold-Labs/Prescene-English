@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.30988.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:05.329%0D%0AOn%20the%20verge%20of%20extinction,%20humans%20finally%20found%20a%20solution%20%E2%80%93%20the%20green%20fungus.%0D%0A%0D%0A"}')
